@@ -36,7 +36,8 @@ Records: ~290,000 rows
 - Created `car_age` feature
 
 📷 **Python Cleaning Output**  
-![Python Cleaning](screenshots/python_cleaning_output.png)
+<img width="1917" height="1010" alt="Screenshot 2025-12-19 143200" src="https://github.com/user-attachments/assets/f2c643fc-d7da-41a0-bd9e-4dcd7c03a3f7" />
+
 
 ---
 
@@ -44,7 +45,8 @@ Records: ~290,000 rows
 A relational table was designed to store cleaned data.
 
 📷 **Table Preview in SSMS**  
-![SSMS Table](screenshots/ssms_table_preview.png)
+<img width="1914" height="988" alt="Screenshot 2025-12-19 144233" src="https://github.com/user-attachments/assets/3c88cb12-ff6d-4c95-8e3e-faefee080b36" />
+
 
 ---
 
@@ -55,7 +57,10 @@ A relational table was designed to store cleaned data.
 - Vehicle depreciation trend
 
 📷 **SQL Query Output**  
-![SQL Output](screenshots/sql_query_output.png)
+<img width="1902" height="950" alt="Screenshot 2025-12-19 143513" src="https://github.com/user-attachments/assets/b2d44ada-4ef9-47f3-8804-c6930acfc31b" />
+<img width="1919" height="990" alt="Screenshot 2025-12-19 143724" src="https://github.com/user-attachments/assets/6290ff5f-bd26-4f50-b507-877180b3ac9b" />
+<img width="1911" height="981" alt="Screenshot 2025-12-19 143743" src="https://github.com/user-attachments/assets/eaf2664a-0021-4cb0-84e5-15b3b89e4462" />
+
 
 ---
 
