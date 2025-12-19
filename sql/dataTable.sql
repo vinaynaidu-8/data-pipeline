@@ -32,3 +32,15 @@ SELECT state, COUNT(*) AS total_sales
 FROM clean_vehicle_sales
 GROUP BY state
 ORDER BY total_sales DESC;
+
+--Depreciation Trend (Car Age vs Price)
+SELECT car_age, AVG(sellingprice) AS avg_price
+FROM clean_vehicle_sales
+GROUP BY car_age
+ORDER BY car_age;
+
+--Premium Sales (Above MMR)
+SELECT COUNT(*) AS premium_sales
+FROM clean_vehicle_sales
+WHERE sellingprice > mmr;
+
