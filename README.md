@@ -5,7 +5,7 @@ This project demonstrates an end-to-end data engineering pipeline using real-wor
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python (Pandas)
 - SQL Server
 - SQL Server Management Studio (SSMS)
